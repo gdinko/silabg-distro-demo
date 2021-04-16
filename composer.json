@@ -1,0 +1,12 @@
+{
+    "name": "silabg/distro-demo",
+    "description": "Sila BG Distro API v1 Consumer Demo",
+    "config": {
+        "platform": {
+            "php": "5.3.29"
+        }
+    },
+    "require": {
+        "silabg/distro": "^1.0"
+    }
+}
